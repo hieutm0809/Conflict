@@ -1,1 +1,1 @@
-Hello conflict1
+﻿Hello conflict1 đã conflict 
